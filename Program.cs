@@ -47,7 +47,7 @@ namespace EasyAnimComposer {
                 frames[i] = new ImageInfo (img_paths[i]);
             }
 
-            path += ".mp4";
+            path += "/"+name+".mp4";
             if (File.Exists (path))
                 new FileInfo (path).Delete ();
             Console.WriteLine ();
