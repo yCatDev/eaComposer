@@ -1,0 +1,11 @@
+d:\EasyAnimComposer\obj\Debug\netcoreapp2.1\EasyAnimComposer.csprojAssemblyReference.cache
+d:\EasyAnimComposer\obj\Debug\netcoreapp2.1\EasyAnimComposer.csproj.CoreCompileInputs.cache
+d:\EasyAnimComposer\obj\Debug\netcoreapp2.1\EasyAnimComposer.AssemblyInfoInputs.cache
+d:\EasyAnimComposer\obj\Debug\netcoreapp2.1\EasyAnimComposer.AssemblyInfo.cs
+D:\EasyAnimComposer\bin\Debug\netcoreapp2.1\EasyAnimComposer.deps.json
+D:\EasyAnimComposer\bin\Debug\netcoreapp2.1\EasyAnimComposer.runtimeconfig.json
+D:\EasyAnimComposer\bin\Debug\netcoreapp2.1\EasyAnimComposer.runtimeconfig.dev.json
+d:\EasyAnimComposer\bin\Debug\netcoreapp2.1\EasyAnimComposer.dll
+d:\EasyAnimComposer\bin\Debug\netcoreapp2.1\EasyAnimComposer.pdb
+d:\EasyAnimComposer\obj\Debug\netcoreapp2.1\EasyAnimComposer.dll
+d:\EasyAnimComposer\obj\Debug\netcoreapp2.1\EasyAnimComposer.pdb
